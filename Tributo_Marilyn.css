@@ -1,0 +1,20 @@
+#main{background-color: #FAE5D3;}
+
+h1{
+  text-align: center;
+}
+p{
+text-align:justify;
+}
+#image{
+  display:block;
+  height: auto;
+  max-width: 100%;
+  justify-content: center;
+}
+#img-caption{
+  font-size:12px;
+}
+#tribute-info{
+text-align:justify; 
+}
